@@ -1,5 +1,3 @@
-
-
 <!--
 ### Hi there 👋
 **SangSusu-git/SangSusu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
-
 ## 이상수(Lee Sangsu)
 ### 🛠Stack
  <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
