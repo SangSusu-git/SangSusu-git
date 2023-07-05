@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **SangSusu-git/SangSusu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +15,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Lee Sangsu
+#
 
-## Profilo
-> hello
+## 이상수(Lee Sangsu)
+### 🛠Stack
+ <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+
+ <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/>
+
+ 
+
+### 🙋🏻‍♂️About me
+>- 안녕하세요. 저는 데이터 분석하는 일을 좋아하는 이상수입니다!
+>- 저는 데이터사이언스(주)/소프트웨어(복수)을 전공하였고 꾸준히 성장해나가고 있습니다 :)
+
+### 📋Protfoilo
+> 노션 | [Projects Overview](https://www.notion.so/1fd371f03a4245398d7855c4e9ea9711)
+
+
+### 🏆Prize
+> 우수상(2위)  | 강남대학교 데이터 학술제
+>             | "채용공고 최신동향 및 테크추천" 주제로 진행하였습니다.
+
+### 📫 How to reach me
+> - E-mail | tkdtn7298@naver.com
