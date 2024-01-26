@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 🙋🏻‍♂️About me
 >- 안녕하세요. 저는 데이터 분석하는 일을 좋아하는 이상수입니다!
 >- 저는 데이터사이언스(주)/소프트웨어(복수)를 전공하였고 꾸준히 성장해나가고 있습니다 :)
+>- NLP를 공부하였고 인공지능과 데이터 분석에 관심이 있습니다.
 
 ### 🛠Stack
  <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
