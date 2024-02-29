@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 > 우수상(2위)  | 강남대학교 데이터 학술제_"채용공고 최신동향 파악 및 테크추천" 주제로 진행하였습니다.
 
 ### 📫 How to reach me
+<!--
 > - E-mail | tkdtn7298@naver.com
+-->
