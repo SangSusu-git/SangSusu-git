@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 ## 이상수(Lee Sangsu)
 
 ### 🙋🏻‍♂️About me
->- 안녕하세요. 저는 데이터 분석하는 일을 좋아하는 이상수입니다!
+>- 안녕하세요. 저는 데이터 분석가를 꿈꾸는 이상수입니다.
 >- 저는 데이터사이언스(주)/소프트웨어(복수)를 전공하였고 꾸준히 성장해나가고 있습니다 :)
->- NLP를 공부하였고 인공지능과 데이터 분석에 관심이 있습니다.
+>- NLP를 공부하고 있으며 인공지능과 데이터 분석에 관심이 있습니다.
+
+### 🙋🏻‍♂️Interest
+>- NLP
+>- STT/TTS
+>- MRC/RAG
 
 ### 🛠Stack
  <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
@@ -42,9 +47,7 @@ Here are some ideas to get you started:
 > 
 > 미래내일 일경험 프로그램 | 2024.04.29 ~ Present
 > 
-> 부스트캠프 AI Tech(6기, NLP)_네이버 커넥트재단 | 2023.11.06 ~ 2024.04.02
-> 
-
+> 부스트캠프 AI Tech(6기, NLP)_네이버 커넥트재단 | 2023.11.06 ~ 2024.04.02 | [수료증] | [서비스 링크](https://hello-jobits.com/)
 
 
 ### 📫 How to reach me
