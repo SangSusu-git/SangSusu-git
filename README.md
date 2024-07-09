@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 
 
 ### 🏆Prize
-> 우수상(2위)  | 강남대학교 데이터 학술제_"채용공고 최신동향 파악 및 테크추천" 주제로 진행하였습니다.
+> 최우수상  | 강남대학교 데이터 학술제_"채용공고 최신동향 파악 및 테크추천" 주제로 진행하였습니다
+> 
+> [news link](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=2beb8ee4bcae3e8fd20f3c7e93cfc3d2)
+
 
 
 ### 🏃Experinece
