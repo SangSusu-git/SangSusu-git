@@ -43,9 +43,11 @@ Here are some ideas to get you started:
 
 
 ### 🏃Experinece
+> 2024_새싹(SeSAC) 해커톤 | 2024.08.01 ~ 2024.08.02
+>
 > LG Aimers(5기) | 2024.07.01 ~ Present
 > 
-> 미래내일 일경험 프로그램 | 2024.04.29 ~ Present
+> 미래내일 일경험 프로그램 | 2024.04.29 ~ 2024.07.12
 > 
 > 부스트캠프 AI Tech(6기, NLP)_네이버 커넥트재단 | 2023.11.06 ~ 2024.04.02 | [수료증] | [서비스 링크](https://hello-jobits.com/)
 
